@@ -1,7 +1,7 @@
 import Foundation
 import SwiftUI
 import Observation
-
+//testing if commit works
 @Observable
 class DiaryViewModel {
     var selectedDate = Date()
