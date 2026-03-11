@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+instance/
+
+# iOS / Xcode
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+GoogleService-Info.plist
+
+# General
+.DS_Store
+*.swp
+.vscode/
+.idea/
+node_modules/
